@@ -66,7 +66,7 @@ This project demonstrates a comprehensive solution using Power BI Desktop to pro
 ![alt text](jruynno_0-1733498437484.png)
 
 ## Certificate
-![alt text](certificate.png)
+![alt text](Certificate.png)
 
 ## Task Description Email
 [Email Task](<Email - Welcome and Task Description.pdf>)
