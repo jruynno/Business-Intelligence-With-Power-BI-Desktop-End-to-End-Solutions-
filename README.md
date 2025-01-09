@@ -5,10 +5,10 @@
 This project demonstrates a comprehensive solution using Power BI Desktop to provide insightful and interactive dashboards for the CFO and Sales Manager of Adventure Works Bike Shop. The goal is to capture and visualize key business metrics and trends to facilitate data-driven decision-making.
 
 ## Technologies Used:
-* Power BI Desktop: Data visualization and interactive dashboards.
-* DAX: Data modeling and calculated metrics.
-* Power Query: Data extraction, transformation, and loading (ETL).
-* SQL/Excel (if applicable): Data source integration and preparation.
+* **Power BI Desktop:** Data visualization and interactive dashboards.
+* **DAX:** Data modeling and calculated metrics.
+* **Power Query:** Data extraction, transformation, and loading (ETL).
+* **Excel:** Data source integration and preparation.
 
 ## Skills Demonstrated
 
